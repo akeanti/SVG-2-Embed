@@ -50,6 +50,12 @@ Here’s a preview of the available SVG templates.
 | **Rainbow Swirl**   | ![Rainbow Swirl](path/to/rainbow-swirl-image.png) |
 | **Modern Gradient** | ![Modern Gradient](path/to/modern-gradient-image.png) |
 
+## Preview
+
+Here is how the web/output look like (I use arch btw)
+<img src="https://media.discordapp.net/attachments/1256943916758990948/1275330394002296843/image.png?ex=66c57f7c&is=66c42dfc&hm=3f0d8bdde469603ae1f799afd6ca6aa3cff47d47cf0399b9470060e38055745e&=&format=webp&quality=lossless&width=940&height=528" />
+<img src="https://media.discordapp.net/attachments/1256943916758990948/1275330856134901760/image.png?ex=66c57fea&is=66c42e6a&hm=d45babcaf3d03cc774b9829866380a90b69a5a1f6d23534494c472faabb50630&=&format=webp&quality=lossless&width=940&height=528" />
+
 ## How to Use
 
 1. **Select Template**: Choose an SVG template from the dropdown menu.
