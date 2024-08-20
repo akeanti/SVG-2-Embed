@@ -7,17 +7,17 @@
 <a href="https://github.com/akeanti/SVG-2-Embed/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/akeanti/PyBall?style=flat-square" alt="github-akeanti license" />
 </a>
-<a href="https://github.com/akeanti/PyBall/fork" target="blank">
+<a href="https://github.com/akeanti/SVG-2-Embed/fork" target="blank">
 <img src="https://img.shields.io/github/forks/akeanti/PyBall?style=flat-square" alt="PyBall forks"/>
 </a>
-<a href="https://github.com/akeanti/PyBall/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/akeanti/PyBall?style=flat-square" alt="PyBall stars"/>
+<a href="https://github.com/akeanti/SVG-2-Embed/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/akeanti/SVG-2-Embed?style=flat-square" alt="PyBall stars"/>
 </a>
 <a href="https://github.com/akeanti/PyBall/issues" target="blank">
-<img src="https://img.shields.io/github/issues/akeanti/PyBall?style=flat-square" alt="github-profile-readme-generator issues"/>
+<img src="https://img.shields.io/github/issues/akeanti/SVG-2-Embed?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
 <a href="https://github.com/akeanti/PyBall/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/akeanti/PyBall?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<img src="https://img.shields.io/github/issues-pr/akeanti/SVG-2-Embed?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 <a href="https://discord.gg/A2rQsnQMvy" target="blank">
 <img src="https://img.shields.io/discord/1211038749195239434?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
