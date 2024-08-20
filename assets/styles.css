@@ -106,3 +106,18 @@ button {
 button:hover {
     background: #6d0c11;
 }
+
+.button-cont a {
+    display: inline-block;
+    text-decoration: none;
+    background: #e11b24;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.button-cont a:hover {
+    background: #6d0c11;
+}
