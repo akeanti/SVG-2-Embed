@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.navbar {
+    width: 97%;
+    background: #222;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.navbar .logo img {
+    height: 40px;
+    margin-right: 15px;
+}
+
+.navbar .button-container {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .social-icons img {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.navbar .social-icons img + img {
+    margin-left: 20px; /* Space between the icons */
+}
+
+.navbar .button {
+    background: #e11b24;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navbar .button:hover {
+    background: #6d0c11;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    margin-top: 80px; /* Adjust the margin to move title down */
+}
+
+h1 {
+    margin: 0 0 20px 0;
+}
+
+#svg-container {
+    width: 100%;
+    height: 300px;
+    margin: 20px auto;
+    background: #111;
+    border: 1px solid #444;
+}
+
+input, button, select {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+input[type="text"], select {
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #444;
+    background: #222;
+    color: #fff;
+}
+
+button {
+    background: #e11b24;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #6d0c11;
+}
