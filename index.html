@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta property="og:title" content="SVG 2 Embed">
+    <meta property="og:description" content="Make discord webhook embeds in a better way! Using dynamic images :), A new revolution in discord embeds, SVG 2 Embeds.">
+    <meta property="og:image" content="https://media.discordapp.net/attachments/1213837998366396508/1275270920478523424/embed-photo-svgrepo-com2.png?ex=66c54818&is=66c3f698&hm=c1d51b1dd8590ad32dcc70aaa169ab56dc7e7e85214d66783445e60a7806c19d&=&format=webp&quality=lossless&width=558&height=558">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#e11b24">
+    <title>SVG 2 Embed</title>
+    <link rel="icon" href="pics/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" text="text/css" href="assets/styles.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <img src="pics/SVG 2 Embed.png" alt="Logo">
+        </div>
+        <div class="button-container">
+            <div class="social-icons">
+                <a href="https://discord.com/A2rQsnQMvy" target="_blank">
+                    <img src="pics/discowd.png" alt="Discord">
+                </a>
+                <a href="https://github.com/akeanti/SVG-2-Embed" target="_blank">
+                    <img src="pics/gitwob.png" alt="GitHub">
+                </a>
+            </div>
+            <a href="#" class="button">Sponsor Us</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>SVG Generator</h1>
+        <select id="template-selector">
+            <option value="template1">Shooting Stars</option>
+            <option value="template2">Fireworks</option>
+            <option value="template3">Wave Pattern</option>
+            <option value="template4">Geometric Shapes</option>
+            <option value="template5">Abstract Lines</option>
+            <option value="template6">Neon Glow</option>
+            <option value="template7">Retro Waves</option>
+            <option value="template8">Space Nebula</option>
+            <option value="template9">Rainbow Swirl</option>
+            <option value="template10">Modern Gradient</option>
+        </select>
+        <input type="text" id="text-input" placeholder="Enter text for SVG">
+        <input type="color" id="color-picker" value="#ffffff">
+        <div id="svg-container"></div>
+        <button id="generate-svg">Generate SVG</button>
+        <input type="text" id="webhook-url" placeholder="Enter Discord webhook URL">
+        <button id="send-discord">Send to Discord</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+    <script src="assets/app.js"></script> 
+</body>
+</html>
